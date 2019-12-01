@@ -1,0 +1,5 @@
+iex:
+  scheme: https
+  host: cloud.iexapis.com
+  path: /stable/stock/market/batch
+  token: #YOUR_TOKEN_HERE
